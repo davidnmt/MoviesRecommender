@@ -1,5 +1,5 @@
 # MoviesRecommender
-A Java program that mainly recommends movies for a user, based on closeness of this user ratings with other users
+A Java program that mainly recommends movies for a user, based on closeness of this user ratings with other users.
 
 This project uses ArrayList, HashMap, HashSet data structures. Static methods, Programming Oriented Object designs.
 
